@@ -1,3 +1,6 @@
-let nama = "Ravi";
+let umur = 20;
+const nama = "Pasha";
 
-console.log(nama);
+umur = 21;
+// nama = "Ridho";
+alert(umur);
