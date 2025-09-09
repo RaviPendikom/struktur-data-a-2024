@@ -1,5 +1,5 @@
-let nilai = 64;
+function tambah(x, y) {
+  return x + y;
+}
 
-// kondisi ? true : false;
-
-nilai >= 65 ? alert("Lulus") : alert("Gagal");
+alert(tambah(10, 10));
