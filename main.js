@@ -1,9 +1,5 @@
-let nilai = 77;
+let nilai = 64;
 
-if (nilai >= 80) {
-  alert("Nilai A");
-} else if (nilai >= 75) {
-  alert("Nilai B");
-} else {
-  alert("Nilai C");
-}
+// kondisi ? true : false;
+
+nilai >= 65 ? alert("Lulus") : alert("Gagal");
