@@ -1,6 +1,9 @@
-let umur = 20;
-const nama = "Pasha";
+let nilai = 77;
 
-umur = 21;
-// nama = "Ridho";
-alert(umur);
+if (nilai >= 80) {
+  alert("Nilai A");
+} else if (nilai >= 75) {
+  alert("Nilai B");
+} else {
+  alert("Nilai C");
+}
